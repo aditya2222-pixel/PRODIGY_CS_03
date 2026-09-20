@@ -130,16 +130,14 @@ PRODIGY_CS_03/
 ├── main.py
 ├── README.md
 ├── .gitignore
-│
-└── screenshots/
-    └── screenshot.png
+└── screenshot.png
 ```
 
 ## Screenshot
 
 ### Password Complexity & Breach Checker
 
-![Password Complexity & Breach Checker](screenshots/screenshot.png)
+![Password Complexity & Breach Checker](screenshot.png)
 
 ## Task
 
